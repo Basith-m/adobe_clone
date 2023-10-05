@@ -1,0 +1,35 @@
+.landing-container{
+    margin: 0;
+    padding: 60px;
+    height: auto; /* Ensure the background covers the entire viewport height */
+    background-image: url('/public/bg-mix-clr.jpeg');
+    background-size: cover;
+    background-repeat: none;
+  
+}
+
+.line-divider{
+    height: 1px;
+    background-color: white;
+    width: 100%;
+}
+
+
+.page-links{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.page-links:hover{
+    text-decoration: underline;
+}
+
+.mid-banner{
+    background-image: url('/public//images/lap-banner.jpeg');
+    width: 100%;
+    height: 90vh;
+    background-size: cover;
+    background-repeat: none;
+}

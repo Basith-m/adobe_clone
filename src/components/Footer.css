@@ -1,0 +1,23 @@
+.footer-links{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+}
+
+.footer{
+    background-color: rgb(242, 242, 255);
+}
+
+ul{
+    list-style: none;
+}
+
+.line-divider{
+    background-color: grey;
+    height: 1px;
+    width: 100%;
+}
+
+.fp-text{
+    font-size: 13px;
+}
